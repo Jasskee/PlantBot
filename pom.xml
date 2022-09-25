@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>plantbot-telegrambot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>PlantBot for Telegram</name>
 	<description>Telegram bot for enhancing the flower care process</description>
 	<properties>
